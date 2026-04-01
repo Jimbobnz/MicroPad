@@ -4,6 +4,11 @@
 
 This project demonstrates how to interface a **4×4 matrix keypad** with an **Arduino Pro Micro (ATmega32U4)** using a **PCF8575 16-bit I²C I/O expander**.
 
+![MicroPad16-Key HID Configurator](./assets/fr_3742_size1024.jpg)
+![MicroPad16-Key HID Configurator](./assets/fr_3745_size880.jpg)
+![MicroPad16-Key HID Configurator](./assets/fr_3746_size1024.jpg)
+
+
 Key features:
 
 * Interrupt-driven key detection (no constant polling)
