@@ -87,7 +87,7 @@ Key pressed: 5
 
 ### webinterface
 
-![MicroPad16-Key HID Configurator](Screenshot 2026-04-01 201751.png)
+![MicroPad16-Key HID Configurator](./Screenshot%202026-04-01%20201751.png)
 
 ### I²C Address
 
